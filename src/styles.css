@@ -1,0 +1,51 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.jumbotron {
+  margin-bottom: 0;
+}
+.nav-item select {
+  width: 200px;
+  height: 39px;
+}
+.navbar {
+  padding: 20px 50px;
+}
+svg {
+  width: 18px;
+  margin-right: 2px;
+}
+.hotel-info {
+  display: flex;
+  flex-direction: column;
+}
+.info-2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.card {
+  width: 350px !important;
+}
+.list-group-item {
+  border: none;
+}
+.price {
+  color: white;
+  height: 40px;
+}
+
+.container-fluid {
+  flex-wrap: wrap;
+  padding: 0 50px;
+  justify-content: center;
+  align-items: center;
+}
+.date-item {
+  display: flex;
+  align-items: center;
+}
+.date-item label {
+  margin-right: 10px;
+}
